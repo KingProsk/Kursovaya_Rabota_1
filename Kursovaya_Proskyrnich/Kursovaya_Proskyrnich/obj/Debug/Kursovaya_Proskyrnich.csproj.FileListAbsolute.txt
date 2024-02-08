@@ -1,0 +1,15 @@
+D:\My Projects\Kursovaya_Proskyrnich\Kursovaya_Proskyrnich\bin\Debug\Kursovaya_Proskyrnich.exe.config
+D:\My Projects\Kursovaya_Proskyrnich\Kursovaya_Proskyrnich\bin\Debug\Kursovaya_Proskyrnich.exe
+D:\My Projects\Kursovaya_Proskyrnich\Kursovaya_Proskyrnich\bin\Debug\Kursovaya_Proskyrnich.pdb
+D:\My Projects\Kursovaya_Proskyrnich\Kursovaya_Proskyrnich\obj\Debug\Kursovaya_Proskyrnich.csproj.AssemblyReference.cache
+D:\My Projects\Kursovaya_Proskyrnich\Kursovaya_Proskyrnich\obj\Debug\Kursovaya_Proskyrnich.csproj.SuggestedBindingRedirects.cache
+D:\My Projects\Kursovaya_Proskyrnich\Kursovaya_Proskyrnich\obj\Debug\Kursovaya_Proskyrnich.Form1.resources
+D:\My Projects\Kursovaya_Proskyrnich\Kursovaya_Proskyrnich\obj\Debug\Kursovaya_Proskyrnich.Properties.Resources.resources
+D:\My Projects\Kursovaya_Proskyrnich\Kursovaya_Proskyrnich\obj\Debug\Kursovaya_Proskyrnich.csproj.GenerateResource.cache
+D:\My Projects\Kursovaya_Proskyrnich\Kursovaya_Proskyrnich\obj\Debug\Kursovaya_Proskyrnich.csproj.CoreCompileInputs.cache
+D:\My Projects\Kursovaya_Proskyrnich\Kursovaya_Proskyrnich\obj\Debug\Kursovaya_Proskyrnich.exe
+D:\My Projects\Kursovaya_Proskyrnich\Kursovaya_Proskyrnich\obj\Debug\Kursovaya_Proskyrnich.pdb
+D:\My Projects\Kursovaya_Proskyrnich\Kursovaya_Proskyrnich\bin\Debug\Kursovaya_Proskyrnich.exe.manifest
+D:\My Projects\Kursovaya_Proskyrnich\Kursovaya_Proskyrnich\bin\Debug\Kursovaya_Proskyrnich.application
+D:\My Projects\Kursovaya_Proskyrnich\Kursovaya_Proskyrnich\obj\Debug\Kursovaya_Proskyrnich.exe.manifest
+D:\My Projects\Kursovaya_Proskyrnich\Kursovaya_Proskyrnich\obj\Debug\Kursovaya_Proskyrnich.application
